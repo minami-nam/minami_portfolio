@@ -13,11 +13,11 @@
 
 | Category          | Description                                                                                                   |
 | ----------------- | ---------------------------------------------------------------------------------------------------------     |
-| `verilog_RTL`     | Verilog/SystemVerilog RTL design, digital IP blocks 설계 역량 증진을 목표로 여러 모듈을 설계하고 있습니다.        |
-| `llm_ml`          | 한국어 경량 LLM 모델에 대해 관심을 가지고 여러 작업을 진행하는 중입니다. 현재 민원 안내 챗봇을 개발하였습니다.        | 
-| `computer_vision` | CNN Based Image Enhancement에 대해 주로 다루며, 경량화 모델을 개발하고 있습니다.                                  |
-| `server_logs`     | 현재 개발을 진행중인 서버의 설정과, Open WebUI를 통한 로컬 LLM 구동 설정 등을 여기에 기록할 계획입니다.              |
-| `scratch`         | 프로젝트로 분리하긴 애매한 작업들을 여기서 처리할 계획입니다.                                                      |
+| [verilog_RTL](./projects/verilog_RTL.md)         | Verilog/SystemVerilog RTL design, digital IP blocks 설계 역량 증진을 목표로 여러 모듈을 설계하고 있습니다.        |
+| [llm_ml](./projects/llm_ml.md)                   | 한국어 경량 LLM 모델에 대해 관심을 가지고 여러 작업을 진행하는 중입니다. 현재 민원 안내 챗봇을 개발하였습니다.        | 
+| [computer_vision](./projects/computer_vision.md) | CNN Based Image Enhancement에 대해 주로 다루며, 경량화 모델을 개발하고 있습니다.                                  |
+| [server_logs](./projects/server_logs.md)         | 현재 개발을 진행중인 서버의 설정과, Open WebUI를 통한 로컬 LLM 구동 설정 등을 여기에 기록할 계획입니다.              |
+| [scratch](./projects/scratch.md)                 | 프로젝트로 분리하긴 애매한 작업들을 여기서 처리할 계획입니다.                                                      |
 
 ---
 
